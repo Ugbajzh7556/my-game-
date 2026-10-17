@@ -1,0 +1,4826 @@
+{
+  "event_info_list": [
+    {
+      "event_banner": "/banner/event/010884/16dcbaccb16bb1350524f687ed84f079f33bd86617eb9d8977d8f2672be475cd",
+      "event_match_label": "DREAM",
+      "event_info_type": "AI_MATCH",
+      "event_end_time": 2147483647,
+      "event_recommend_kind": "NONE",
+      "event_recommend_str": "",
+      "event_recommend_info_type": "BOTH"
+    },
+    {
+      "event_banner": "/banner/event/030272/4862cf8c337ee139bb9ff890ed6c42dbbdd738af3a7e60f74e73fc51c71ed4d9",
+      "event_match_label": "DREAM",
+      "event_info_type": "USER_MATCH",
+      "event_end_time": 2147483647,
+      "event_recommend_kind": "NONE",
+      "event_recommend_str": "",
+      "event_recommend_info_type": "BOTH"
+    },
+    {
+      "event_banner": "/banner/event/010884/16dcbaccb16bb1350524f687ed84f079f33bd86617eb9d8977d8f2672be475cd",
+      "event_match_label": "DREAM",
+      "event_info_type": "BOTH",
+      "event_end_time": 2147483647,
+      "event_recommend_kind": "NONE",
+      "event_recommend_str": "",
+      "event_recommend_info_type": "BOTH"
+    }
+  ],
+  "league_division_info": {
+    "pvp_division": 0,
+    "ai_division": 0
+  },
+  "league_info": {
+    "league_banner": "/banner/league/000057/b1774da9bd97a583ed74577f3026db111f142318e0f78c6317377da5d494d5ea",
+    "league_phase_start_time": 1791424800,
+    "league_phase_end_time": 1793843999
+  },
+  "analyst_main_info": {
+    "advice_info_match_list": [],
+    "analyse_json": "[]",
+    "advice_json": "[]"
+  },
+  "ml_event_info": null,
+  "sheet_list": [
+    {
+      "sheet_id": 200240,
+      "sheet_kind": "FREE",
+      "start_time": 1791424800,
+      "buy_end_time": 1792634399,
+      "end_time": 1792634399,
+      "not_received_num": 1,
+      "achievement_list": [
+        {
+          "achievement_id": "200240_1",
+          "achivement_sheet_name": "New Playing Style",
+          "sort_num": 1,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "ACHIEVEMENT",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "POSITION_TRAINING",
+                  "grade": 0,
+                  "effect": 0
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 1,
+              "achievement_need_num": 12,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "GET_ACHIEVEMENT",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "200240_2",
+          "achivement_sheet_name": "New Playing Style",
+          "sort_num": 2,
+          "event_id": [],
+          "is_spotlight_reward": "YES",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "ACHIEVEMENT",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "ABILITY_TRAINING_RANDOM",
+                  "grade": 0,
+                  "effect": 0
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 1,
+              "achievement_need_num": 8,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "GET_ACHIEVEMENT",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "200240_3",
+          "achivement_sheet_name": "New Playing Style",
+          "sort_num": 3,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "ACHIEVEMENT",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "SKILL_TRAINING",
+                  "grade": 0,
+                  "effect": 0
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 1,
+              "achievement_need_num": 4,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "GET_ACHIEVEMENT",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "200240_4",
+          "achivement_sheet_name": "New Playing Style",
+          "sort_num": 4,
+          "event_id": [
+            10884
+          ],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "ACHIEVEMENT",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            },
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "GP",
+                "count": 10000,
+                "name": "GP",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "ACHIEVEMENT",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 3,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "PLAY_CUSTOM_EVENT_COM",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "200240_8",
+          "achivement_sheet_name": "New Playing Style",
+          "sort_num": 8,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "GP",
+                "count": 10000,
+                "name": "GP",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "ACHIEVEMENT",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 2,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            },
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "ACHIEVEMENT",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 4,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "WIN_COM",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "200240_9",
+          "achivement_sheet_name": "New Playing Style",
+          "sort_num": 9,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "GP",
+                "count": 10000,
+                "name": "GP",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "ACHIEVEMENT",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            },
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "ACHIEVEMENT",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 2,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "GOAL_PVP",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "GOAL"
+        },
+        {
+          "achievement_id": "200240_10",
+          "achivement_sheet_name": "New Playing Style",
+          "sort_num": 10,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "GP",
+                "count": 10000,
+                "name": "GP",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "ACHIEVEMENT",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0
+              },
+              "state": "NOT_RECEIVED",
+              "achievement_num": 1,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "LOGIN",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        }
+      ],
+      "achivement_sheet_name": "New Playing Style",
+      "achivement_sheet_details": "This Objective will be added on \u0011ub1792029600. \nTake part in eligible Events and eFootball™ League, and aim to complete all Objectives!",
+      "banner_b_file_name": "/banner/achievement/000240/0f336a2c9ae42f709475c5edee210d34b6885b4a5e2f03a7471d5cd098999e8c",
+      "banner_c_file_name": "/banner/achievement/000240/30cd02427132dca7de21d802a799a6a061cfcd6ba6956363f341a16d199a2cad",
+      "text_color_a": {
+        "color_r": 255,
+        "color_g": 255,
+        "color_b": 255
+      },
+      "text_color_b": {
+        "color_r": 254,
+        "color_g": 194,
+        "color_b": 0
+      },
+      "is_completed": "NO",
+      "is_active": "YES",
+      "bingo_link_info": [],
+      "campaign_info": [
+        {
+          "campaign_id": 904,
+          "bg_file_name": "campaignBG_032"
+        }
+      ]
+    },
+    {
+      "sheet_id": 200241,
+      "sheet_kind": "FREE",
+      "start_time": 1791424800,
+      "buy_end_time": 1792353600,
+      "end_time": 1792353600,
+      "not_received_num": 0,
+      "achievement_list": [
+        {
+          "achievement_id": "200241_1",
+          "achivement_sheet_name": "Club Event Internazionale Milano",
+          "sort_num": 1,
+          "event_id": [
+            10885,
+            10889
+          ],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "ACHIEVEMENT",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            },
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "GP",
+                "count": 10000,
+                "name": "GP",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "ACHIEVEMENT",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 2,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "GOAL_CUSTOM_EVENT_COM",
+          "team_id": 119,
+          "conditions_type_1": "TEAM",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "GOAL"
+        },
+        {
+          "achievement_id": "200241_2",
+          "achivement_sheet_name": "Club Event Internazionale Milano",
+          "sort_num": 2,
+          "event_id": [
+            22091,
+            22095
+          ],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "ACHIEVEMENT",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            },
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "GP",
+                "count": 10000,
+                "name": "GP",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "ACHIEVEMENT",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 2,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "GOAL_CUSTOM_EVENT_PVP",
+          "team_id": 119,
+          "conditions_type_1": "TEAM",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "GOAL"
+        },
+        {
+          "achievement_id": "200241_3",
+          "achivement_sheet_name": "Club Event Internazionale Milano",
+          "sort_num": 3,
+          "event_id": [
+            30280,
+            30284
+          ],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "ACHIEVEMENT",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            },
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "ACHIEVEMENT",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "SKILL_TRAINING",
+                  "grade": 0,
+                  "effect": 0
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 2,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "PLAY_EVENT_RANKING",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "200241_4",
+          "achivement_sheet_name": "Club Event Internazionale Milano",
+          "sort_num": 4,
+          "event_id": [
+            30280,
+            30284
+          ],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "ACHIEVEMENT",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "POSITION_TRAINING",
+                  "grade": 0,
+                  "effect": 0
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 2,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "GOAL_EVENT_RANKING",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "GOAL"
+        }
+      ],
+      "achivement_sheet_name": "Club Event Internazionale Milano",
+      "achivement_sheet_details": "Take part in eFootball™ Championship 2027 Internazionale Milano, and aim to complete all Objectives!\nWhile advancing through each Round and completing Objectives, users can face off against fellow Internazionale Milano fans from around the world!",
+      "banner_b_file_name": "/banner/achievement/000241/f01c19ef530cda30175e03ad10ceb5d9f69241ccc8884e59f0582b5154b56d76",
+      "banner_c_file_name": "/banner/achievement/000241/4b1eefdefada86f2cea719a849e4676577997269c73951ea5f25a9dbc1e88ba3",
+      "text_color_a": {
+        "color_r": 255,
+        "color_g": 255,
+        "color_b": 255
+      },
+      "text_color_b": {
+        "color_r": 255,
+        "color_g": 255,
+        "color_b": 255
+      },
+      "is_completed": "NO",
+      "is_active": "YES",
+      "bingo_link_info": [],
+      "campaign_info": [
+        {
+          "campaign_id": 918,
+          "bg_file_name": "BG0720R"
+        }
+      ]
+    },
+    {
+      "sheet_id": 200245,
+      "sheet_kind": "FREE",
+      "start_time": 1791424800,
+      "buy_end_time": 1793843999,
+      "end_time": 1793843999,
+      "not_received_num": 0,
+      "achievement_list": [
+        {
+          "achievement_id": "200245_1",
+          "achivement_sheet_name": "eFootball™ League",
+          "sort_num": 1,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "ACHIEVEMENT",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            },
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "ACHIEVEMENT",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 3,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "PLAY_CUSTOM_LEAGUE_ALL",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "200245_2",
+          "achivement_sheet_name": "eFootball™ League",
+          "sort_num": 2,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 2,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "ACHIEVEMENT",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "ABILITY_TRAINING_RANDOM",
+                  "grade": 0,
+                  "effect": 0
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            },
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "SELECTIVE",
+                "count": 1,
+                "name": "SELECTIVE",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "ACHIEVEMENT",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "breakdown_list": [
+                  {
+                    "present_id": 1,
+                    "present_type": "ITEM",
+                    "count": 3,
+                    "name": "NotImplement",
+                    "title": "NotImplement",
+                    "reason": "PRESENT",
+                    "reason_num": 0,
+                    "random_reward_rate": 0,
+                    "item_info": {
+                      "item_type": "SKILL_TRAINING",
+                      "grade": 0,
+                      "effect": 0
+                    }
+                  },
+                  {
+                    "present_id": 2,
+                    "present_type": "ITEM",
+                    "count": 3,
+                    "name": "NotImplement",
+                    "title": "NotImplement",
+                    "reason": "PRESENT",
+                    "reason_num": 0,
+                    "random_reward_rate": 0,
+                    "item_info": {
+                      "item_type": "POSITION_TRAINING",
+                      "grade": 0,
+                      "effect": 0
+                    }
+                  },
+                  {
+                    "present_id": 3,
+                    "present_type": "ITEM",
+                    "count": 15,
+                    "name": "NotImplement",
+                    "title": "NotImplement",
+                    "reason": "PRESENT",
+                    "reason_num": 0,
+                    "random_reward_rate": 0,
+                    "item_info": {
+                      "item_type": "ABILITY_TRAINING_SELECT",
+                      "grade": 0,
+                      "effect": 0
+                    }
+                  }
+                ]
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "PROMOTE_DIV_ONE_CUSTOM_LEAGUE_ALL",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "200245_3",
+          "achivement_sheet_name": "eFootball™ League",
+          "sort_num": 3,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 2,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "ACHIEVEMENT",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "ABILITY_TRAINING_RANDOM",
+                  "grade": 0,
+                  "effect": 0
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            },
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "SELECTIVE",
+                "count": 1,
+                "name": "SELECTIVE",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "ACHIEVEMENT",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "breakdown_list": [
+                  {
+                    "present_id": 1,
+                    "present_type": "ITEM",
+                    "count": 3,
+                    "name": "NotImplement",
+                    "title": "NotImplement",
+                    "reason": "PRESENT",
+                    "reason_num": 0,
+                    "random_reward_rate": 0,
+                    "item_info": {
+                      "item_type": "SKILL_TRAINING",
+                      "grade": 0,
+                      "effect": 0
+                    }
+                  },
+                  {
+                    "present_id": 2,
+                    "present_type": "ITEM",
+                    "count": 3,
+                    "name": "NotImplement",
+                    "title": "NotImplement",
+                    "reason": "PRESENT",
+                    "reason_num": 0,
+                    "random_reward_rate": 0,
+                    "item_info": {
+                      "item_type": "POSITION_TRAINING",
+                      "grade": 0,
+                      "effect": 0
+                    }
+                  },
+                  {
+                    "present_id": 3,
+                    "present_type": "ITEM",
+                    "count": 15,
+                    "name": "NotImplement",
+                    "title": "NotImplement",
+                    "reason": "PRESENT",
+                    "reason_num": 0,
+                    "random_reward_rate": 0,
+                    "item_info": {
+                      "item_type": "ABILITY_TRAINING_SELECT",
+                      "grade": 0,
+                      "effect": 0
+                    }
+                  }
+                ]
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "PROMOTE_DIV_TWO_CUSTOM_LEAGUE_ALL",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "200245_4",
+          "achivement_sheet_name": "eFootball™ League",
+          "sort_num": 4,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "ACHIEVEMENT",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "ABILITY_TRAINING_RANDOM",
+                  "grade": 0,
+                  "effect": 0
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "PROMOTE_DIV_THREE_CUSTOM_LEAGUE_ALL",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "200245_5",
+          "achivement_sheet_name": "eFootball™ League",
+          "sort_num": 5,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "SELECTIVE",
+                "count": 1,
+                "name": "SELECTIVE",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "ACHIEVEMENT",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "breakdown_list": [
+                  {
+                    "present_id": 1,
+                    "present_type": "ITEM",
+                    "count": 3,
+                    "name": "NotImplement",
+                    "title": "NotImplement",
+                    "reason": "PRESENT",
+                    "reason_num": 0,
+                    "random_reward_rate": 0,
+                    "item_info": {
+                      "item_type": "SKILL_TRAINING",
+                      "grade": 0,
+                      "effect": 0
+                    }
+                  },
+                  {
+                    "present_id": 2,
+                    "present_type": "ITEM",
+                    "count": 3,
+                    "name": "NotImplement",
+                    "title": "NotImplement",
+                    "reason": "PRESENT",
+                    "reason_num": 0,
+                    "random_reward_rate": 0,
+                    "item_info": {
+                      "item_type": "POSITION_TRAINING",
+                      "grade": 0,
+                      "effect": 0
+                    }
+                  },
+                  {
+                    "present_id": 3,
+                    "present_type": "ITEM",
+                    "count": 15,
+                    "name": "NotImplement",
+                    "title": "NotImplement",
+                    "reason": "PRESENT",
+                    "reason_num": 0,
+                    "random_reward_rate": 0,
+                    "item_info": {
+                      "item_type": "ABILITY_TRAINING_SELECT",
+                      "grade": 0,
+                      "effect": 0
+                    }
+                  }
+                ]
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "PROMOTE_DIV_FOUR_CUSTOM_LEAGUE_ALL",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "200245_6",
+          "achivement_sheet_name": "eFootball™ League",
+          "sort_num": 6,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "ACHIEVEMENT",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "ABILITY_TRAINING_RANDOM",
+                  "grade": 0,
+                  "effect": 0
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "PROMOTE_DIV_FIVE_CUSTOM_LEAGUE_ALL",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "200245_7",
+          "achivement_sheet_name": "eFootball™ League",
+          "sort_num": 7,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "SELECTIVE",
+                "count": 1,
+                "name": "SELECTIVE",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "ACHIEVEMENT",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "breakdown_list": [
+                  {
+                    "present_id": 1,
+                    "present_type": "ITEM",
+                    "count": 3,
+                    "name": "NotImplement",
+                    "title": "NotImplement",
+                    "reason": "PRESENT",
+                    "reason_num": 0,
+                    "random_reward_rate": 0,
+                    "item_info": {
+                      "item_type": "SKILL_TRAINING",
+                      "grade": 0,
+                      "effect": 0
+                    }
+                  },
+                  {
+                    "present_id": 2,
+                    "present_type": "ITEM",
+                    "count": 3,
+                    "name": "NotImplement",
+                    "title": "NotImplement",
+                    "reason": "PRESENT",
+                    "reason_num": 0,
+                    "random_reward_rate": 0,
+                    "item_info": {
+                      "item_type": "POSITION_TRAINING",
+                      "grade": 0,
+                      "effect": 0
+                    }
+                  },
+                  {
+                    "present_id": 3,
+                    "present_type": "ITEM",
+                    "count": 15,
+                    "name": "NotImplement",
+                    "title": "NotImplement",
+                    "reason": "PRESENT",
+                    "reason_num": 0,
+                    "random_reward_rate": 0,
+                    "item_info": {
+                      "item_type": "ABILITY_TRAINING_SELECT",
+                      "grade": 0,
+                      "effect": 0
+                    }
+                  }
+                ]
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "PROMOTE_DIV_SIX_CUSTOM_LEAGUE_ALL",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "200245_8",
+          "achivement_sheet_name": "eFootball™ League",
+          "sort_num": 8,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 5,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "ACHIEVEMENT",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "PROMOTE_DIV_SEVEN_CUSTOM_LEAGUE_ALL",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "200245_9",
+          "achivement_sheet_name": "eFootball™ League",
+          "sort_num": 9,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 2,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "ACHIEVEMENT",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "PROMOTE_DIV_EIGHT_CUSTOM_LEAGUE_ALL",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "200245_10",
+          "achivement_sheet_name": "eFootball™ League",
+          "sort_num": 10,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "ACHIEVEMENT",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "PROMOTE_DIV_NINE_CUSTOM_LEAGUE_ALL",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        }
+      ],
+      "achivement_sheet_name": "eFootball™ League",
+      "achivement_sheet_details": "Keep on playing eFootball™ League, and complete the Objectives.\nOvercome these challenges, and get great rewards, including items used to improve players.\n*Progress made in both the PvP and VS AI Categories counts towards these Objectives. Users can enjoy these challenges playing whichever mode they like.",
+      "banner_b_file_name": "/banner/achievement/000245/eabbf2f4de50a204031ef2fa8ae51072cf5345922c77195ed6e138ff375feee3",
+      "banner_c_file_name": "/banner/achievement/000245/481379bd13aaf8b6f1707d0e5240955d93313922e6193fbf8700a9a993e5a745",
+      "text_color_a": {
+        "color_r": 255,
+        "color_g": 255,
+        "color_b": 0
+      },
+      "text_color_b": {
+        "color_r": 255,
+        "color_g": 255,
+        "color_b": 255
+      },
+      "is_completed": "NO",
+      "is_active": "YES",
+      "bingo_link_info": [],
+      "campaign_info": []
+    },
+    {
+      "sheet_id": 600001,
+      "sheet_kind": "BINGO_PERMANENT",
+      "start_time": 0,
+      "buy_end_time": 0,
+      "end_time": 0,
+      "not_received_num": 2,
+      "achievement_list": [
+        {
+          "achievement_id": "600001_1",
+          "achivement_sheet_name": "",
+          "sort_num": 1,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "PLAYER",
+                "count": 1,
+                "name": "PLAYER",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "player_info": {
+                  "gameplayer": {
+                    "gameplayer_id": {
+                      "id": 105866648987766,
+                      "serial": 0
+                    },
+                    "games": 0,
+                    "goal": 0,
+                    "assist": 0,
+                    "red_card": 0,
+                    "sell_gp": 26000,
+                    "sell_item_list": [
+                      {
+                        "item": {
+                          "item_type": "LEVEL_TRAINING",
+                          "grade": 4,
+                          "effect": 10000
+                        },
+                        "present_num": 1
+                      },
+                      {
+                        "item": {
+                          "item_type": "ABILITY_TRAINING_SELECT",
+                          "grade": 0,
+                          "effect": 0
+                        },
+                        "present_num": 4
+                      }
+                    ],
+                    "uniform_number": 21,
+                    "level_info": {
+                      "level": 1,
+                      "level_limit": 28,
+                      "exp_total": 0,
+                      "exp_current_level": 0,
+                      "exp_to_next_level": 189,
+                      "customize_point": 0
+                    },
+                    "is_lock": "NO",
+                    "play_style": [
+                      20,
+                      0
+                    ],
+                    "initial_base_team_id": 108,
+                    "initial_base_national_team_id": 10,
+                    "parameters": [
+                      5,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1,
+                      2,
+                      2,
+                      0,
+                      0,
+                      2,
+                      0,
+                      0,
+                      0,
+                      65,
+                      66,
+                      40,
+                      77,
+                      82,
+                      80,
+                      62,
+                      82,
+                      79,
+                      58,
+                      65,
+                      64,
+                      69,
+                      58,
+                      76,
+                      40,
+                      40,
+                      40,
+                      40,
+                      2,
+                      76,
+                      70,
+                      75,
+                      68,
+                      75,
+                      60,
+                      79,
+                      2,
+                      0,
+                      0,
+                      0,
+                      2,
+                      29,
+                      181,
+                      74,
+                      6,
+                      1,
+                      1,
+                      0,
+                      4,
+                      2,
+                      2,
+                      2,
+                      0,
+                      0,
+                      48,
+                      0,
+                      20,
+                      0,
+                      0,
+                      1,
+                      0,
+                      0,
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1,
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1,
+                      0,
+                      1,
+                      1,
+                      0,
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1,
+                      0,
+                      0,
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0
+                    ],
+                    "default_rarity": 4,
+                    "type": "NORMAL",
+                    "acquisition_date": 1791625110,
+                    "initial_booster_id_list": [
+                      0,
+                      0,
+                      0
+                    ]
+                  },
+                  "is_warehouse": "NO"
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "GET_BINGO_LINE_FOR_SQUARE",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "600001_2",
+          "achivement_sheet_name": "",
+          "sort_num": 2,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "GP",
+                "count": 70000,
+                "name": "GP",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "TOTAL_PLAY_CUSTOM_LEAGUE_COM",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "600001_3",
+          "achivement_sheet_name": "",
+          "sort_num": 3,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "PLAYER",
+                "count": 1,
+                "name": "PLAYER",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "player_info": {
+                  "gameplayer": {
+                    "gameplayer_id": {
+                      "id": 105866649005150,
+                      "serial": 0
+                    },
+                    "games": 0,
+                    "goal": 0,
+                    "assist": 0,
+                    "red_card": 0,
+                    "sell_gp": 23000,
+                    "sell_item_list": [
+                      {
+                        "item": {
+                          "item_type": "LEVEL_TRAINING",
+                          "grade": 4,
+                          "effect": 10000
+                        },
+                        "present_num": 1
+                      },
+                      {
+                        "item": {
+                          "item_type": "ABILITY_TRAINING_SELECT",
+                          "grade": 0,
+                          "effect": 0
+                        },
+                        "present_num": 4
+                      }
+                    ],
+                    "uniform_number": 24,
+                    "level_info": {
+                      "level": 1,
+                      "level_limit": 29,
+                      "exp_total": 0,
+                      "exp_current_level": 0,
+                      "exp_to_next_level": 183,
+                      "customize_point": 0
+                    },
+                    "is_lock": "NO",
+                    "play_style": [
+                      11,
+                      0
+                    ],
+                    "initial_base_team_id": 102,
+                    "initial_base_national_team_id": 5,
+                    "parameters": [
+                      3,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      2,
+                      0,
+                      0,
+                      2,
+                      1,
+                      0,
+                      2,
+                      0,
+                      65,
+                      68,
+                      40,
+                      74,
+                      74,
+                      75,
+                      61,
+                      73,
+                      80,
+                      62,
+                      70,
+                      76,
+                      74,
+                      70,
+                      82,
+                      40,
+                      40,
+                      40,
+                      40,
+                      1,
+                      77,
+                      77,
+                      68,
+                      78,
+                      76,
+                      60,
+                      77,
+                      1,
+                      0,
+                      0,
+                      0,
+                      1,
+                      27,
+                      182,
+                      82,
+                      5,
+                      1,
+                      0,
+                      1,
+                      3,
+                      0,
+                      4,
+                      0,
+                      0,
+                      0,
+                      97,
+                      0,
+                      11,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1,
+                      1,
+                      0,
+                      0,
+                      0,
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1,
+                      1,
+                      1,
+                      0,
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1,
+                      0,
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1,
+                      0,
+                      1,
+                      0,
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0
+                    ],
+                    "default_rarity": 4,
+                    "type": "NORMAL",
+                    "acquisition_date": 1791625110,
+                    "initial_booster_id_list": [
+                      0,
+                      0,
+                      0
+                    ]
+                  },
+                  "is_warehouse": "NO"
+                }
+              },
+              "state": "NOT_RECEIVED",
+              "achievement_num": 1,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "CLEAR_SKILLUP_TWO",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "600001_4",
+          "achivement_sheet_name": "",
+          "sort_num": 4,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "TOTAL_GOAL_CUSTOM_LEAGUE_COM",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "GOAL"
+        },
+        {
+          "achievement_id": "600001_5",
+          "achivement_sheet_name": "",
+          "sort_num": 5,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "CHECK_BINGO_PERMANENT",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "600001_6",
+          "achivement_sheet_name": "",
+          "sort_num": 6,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "GP",
+                "count": 70000,
+                "name": "GP",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "CHECK_MYTEAM_PLAYER",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "600001_7",
+          "achivement_sheet_name": "",
+          "sort_num": 7,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_RECEIVED",
+              "achievement_num": 1,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "CLEAR_TUTORIAL",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "600001_8",
+          "achivement_sheet_name": "",
+          "sort_num": 8,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "GP",
+                "count": 70000,
+                "name": "GP",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "TOTAL_WIN_CUSTOM_LEAGUE_COM",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "600001_9",
+          "achivement_sheet_name": "",
+          "sort_num": 9,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "GET_BINGO_SQUARE",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "600001_10",
+          "achivement_sheet_name": "",
+          "sort_num": 10,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            },
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 2,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            },
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 3,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            },
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 4,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            },
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 5,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 5,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            },
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 6,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            },
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 7,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            },
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 8,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "GET_BINGO_LINE",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        }
+      ],
+      "achivement_sheet_name": "",
+      "achivement_sheet_details": "",
+      "banner_b_file_name": "",
+      "banner_c_file_name": "",
+      "text_color_a": {
+        "color_r": 255,
+        "color_g": 255,
+        "color_b": 255
+      },
+      "text_color_b": {
+        "color_r": 255,
+        "color_g": 255,
+        "color_b": 255
+      },
+      "is_completed": "NO",
+      "is_active": "YES",
+      "bingo_link_info": [],
+      "campaign_info": []
+    },
+    {
+      "sheet_id": 600002,
+      "sheet_kind": "BINGO_PERMANENT",
+      "start_time": 0,
+      "buy_end_time": 0,
+      "end_time": 0,
+      "not_received_num": 1,
+      "achievement_list": [
+        {
+          "achievement_id": "600002_1",
+          "achivement_sheet_name": "",
+          "sort_num": 1,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "CLEAR_SKILLUP_THREE",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "600002_2",
+          "achivement_sheet_name": "",
+          "sort_num": 2,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "PLAYER",
+                "count": 1,
+                "name": "PLAYER",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "player_info": {
+                  "gameplayer": {
+                    "gameplayer_id": {
+                      "id": 105866649017104,
+                      "serial": 0
+                    },
+                    "games": 0,
+                    "goal": 0,
+                    "assist": 0,
+                    "red_card": 0,
+                    "sell_gp": 30000,
+                    "sell_item_list": [
+                      {
+                        "item": {
+                          "item_type": "LEVEL_TRAINING",
+                          "grade": 4,
+                          "effect": 10000
+                        },
+                        "present_num": 1
+                      },
+                      {
+                        "item": {
+                          "item_type": "ABILITY_TRAINING_SELECT",
+                          "grade": 0,
+                          "effect": 0
+                        },
+                        "present_num": 4
+                      }
+                    ],
+                    "uniform_number": 10,
+                    "level_info": {
+                      "level": 1,
+                      "level_limit": 32,
+                      "exp_total": 0,
+                      "exp_current_level": 0,
+                      "exp_to_next_level": 178,
+                      "customize_point": 0
+                    },
+                    "is_lock": "NO",
+                    "play_style": [
+                      14,
+                      0
+                    ],
+                    "initial_base_team_id": 0,
+                    "initial_base_national_team_id": 14,
+                    "parameters": [
+                      8,
+                      0,
+                      1,
+                      2,
+                      1,
+                      2,
+                      1,
+                      2,
+                      2,
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      70,
+                      54,
+                      40,
+                      82,
+                      80,
+                      79,
+                      73,
+                      78,
+                      71,
+                      53,
+                      51,
+                      58,
+                      62,
+                      67,
+                      72,
+                      40,
+                      40,
+                      40,
+                      40,
+                      2,
+                      76,
+                      65,
+                      78,
+                      74,
+                      79,
+                      60,
+                      72,
+                      1,
+                      1,
+                      0,
+                      0,
+                      0,
+                      23,
+                      186,
+                      75,
+                      6,
+                      1,
+                      1,
+                      0,
+                      4,
+                      1,
+                      2,
+                      18,
+                      4,
+                      3,
+                      253,
+                      0,
+                      14,
+                      0,
+                      1,
+                      1,
+                      1,
+                      1,
+                      0,
+                      0,
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1,
+                      0,
+                      0,
+                      1,
+                      0,
+                      0,
+                      0,
+                      1,
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1,
+                      1,
+                      0,
+                      0,
+                      0,
+                      1,
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0
+                    ],
+                    "default_rarity": 4,
+                    "type": "NORMAL",
+                    "acquisition_date": 1791625110,
+                    "initial_booster_id_list": [
+                      0,
+                      0,
+                      0
+                    ]
+                  },
+                  "is_warehouse": "NO"
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "CHANGE_FORMATION",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "600002_3",
+          "achivement_sheet_name": "",
+          "sort_num": 3,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "TRAIN_PLAYER",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "600002_4",
+          "achivement_sheet_name": "",
+          "sort_num": 4,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 2,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "PLAY_ANY_MATCH",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "600002_5",
+          "achivement_sheet_name": "",
+          "sort_num": 5,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "CLEAR_BINGO_PERMANENT",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "600002_6",
+          "achivement_sheet_name": "",
+          "sort_num": 6,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "GP",
+                "count": 70000,
+                "name": "GP",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0
+              },
+              "state": "NOT_RECEIVED",
+              "achievement_num": 1,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "SET_PLAYER_OVER_STANDARD",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "600002_7",
+          "achivement_sheet_name": "",
+          "sort_num": 7,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "PLAYER_LEVEL_MAX",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "600002_8",
+          "achivement_sheet_name": "",
+          "sort_num": 8,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "GP",
+                "count": 70000,
+                "name": "GP",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "CLEAR_SKILLUP_FOUR",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "600002_9",
+          "achivement_sheet_name": "",
+          "sort_num": 9,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "GP",
+                "count": 70000,
+                "name": "GP",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "PROMOTE_DIV_NINE_CUSTOM_LEAGUE_COM",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "600002_10",
+          "achivement_sheet_name": "",
+          "sort_num": 10,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            },
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 2,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            },
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 3,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            },
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 4,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            },
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 5,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 5,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            },
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 6,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            },
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 7,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            },
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 8,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "GET_BINGO_LINE",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        }
+      ],
+      "achivement_sheet_name": "",
+      "achivement_sheet_details": "",
+      "banner_b_file_name": "",
+      "banner_c_file_name": "",
+      "text_color_a": {
+        "color_r": 255,
+        "color_g": 255,
+        "color_b": 255
+      },
+      "text_color_b": {
+        "color_r": 255,
+        "color_g": 255,
+        "color_b": 255
+      },
+      "is_completed": "NO",
+      "is_active": "NO",
+      "bingo_link_info": [],
+      "campaign_info": []
+    },
+    {
+      "sheet_id": 600003,
+      "sheet_kind": "BINGO_PERMANENT",
+      "start_time": 0,
+      "buy_end_time": 0,
+      "end_time": 0,
+      "not_received_num": 1,
+      "achievement_list": [
+        {
+          "achievement_id": "600003_1",
+          "achivement_sheet_name": "",
+          "sort_num": 1,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "CLEAR_SKILLUP_FIVE",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "600003_2",
+          "achivement_sheet_name": "",
+          "sort_num": 2,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "TRAIN_SKILL",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "600003_3",
+          "achivement_sheet_name": "",
+          "sort_num": 3,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "GP",
+                "count": 70000,
+                "name": "GP",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "CLEAR_SKILLUP_SIX",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "600003_4",
+          "achivement_sheet_name": "",
+          "sort_num": 4,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "COIN",
+                "count": 50,
+                "name": "FREE_COIN",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 5,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "PLAYER_LEVEL_MAX",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "600003_5",
+          "achivement_sheet_name": "",
+          "sort_num": 5,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "GP",
+                "count": 70000,
+                "name": "GP",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 2,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "CLEAR_BINGO_PERMANENT",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "600003_6",
+          "achivement_sheet_name": "",
+          "sort_num": 6,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "GP",
+                "count": 70000,
+                "name": "GP",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 3,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "PLAY_ANY_MATCH",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "600003_7",
+          "achivement_sheet_name": "",
+          "sort_num": 7,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_RECEIVED",
+              "achievement_num": 1,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "USE_AUTO_PLACEMENT",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "600003_8",
+          "achivement_sheet_name": "",
+          "sort_num": 8,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 1,
+              "achievement_need_num": 5,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "SET_PLAYER_OVER_STANDARD",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "600003_9",
+          "achivement_sheet_name": "",
+          "sort_num": 9,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "BUY_GPSHOP",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "600003_10",
+          "achivement_sheet_name": "",
+          "sort_num": 10,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            },
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 2,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            },
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 3,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            },
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 5,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 4,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            },
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 5,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            },
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 6,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            },
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "SKILL_TRAINING",
+                  "grade": 0,
+                  "effect": 0
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 7,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            },
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "POSITION_TRAINING",
+                  "grade": 0,
+                  "effect": 0
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 8,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "GET_BINGO_LINE",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        }
+      ],
+      "achivement_sheet_name": "",
+      "achivement_sheet_details": "",
+      "banner_b_file_name": "",
+      "banner_c_file_name": "",
+      "text_color_a": {
+        "color_r": 255,
+        "color_g": 255,
+        "color_b": 255
+      },
+      "text_color_b": {
+        "color_r": 255,
+        "color_g": 255,
+        "color_b": 255
+      },
+      "is_completed": "NO",
+      "is_active": "NO",
+      "bingo_link_info": [],
+      "campaign_info": []
+    },
+    {
+      "sheet_id": 600004,
+      "sheet_kind": "BINGO_PERMANENT",
+      "start_time": 0,
+      "buy_end_time": 0,
+      "end_time": 0,
+      "not_received_num": 0,
+      "achievement_list": [
+        {
+          "achievement_id": "600004_1",
+          "achivement_sheet_name": "",
+          "sort_num": 1,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "GP",
+                "count": 70000,
+                "name": "GP",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "CLEAR_SKILLUP_EIGHT",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "600004_2",
+          "achivement_sheet_name": "",
+          "sort_num": 2,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "GP",
+                "count": 70000,
+                "name": "GP",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "EDIT_POSITION",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "600004_3",
+          "achivement_sheet_name": "",
+          "sort_num": 3,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "GP",
+                "count": 70000,
+                "name": "GP",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "CRAFT_BOOSTER",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "600004_4",
+          "achivement_sheet_name": "",
+          "sort_num": 4,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "TRAIN_POSITION",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "600004_5",
+          "achivement_sheet_name": "",
+          "sort_num": 5,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 3,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 3,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "CLEAR_BINGO_PERMANENT",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "600004_6",
+          "achivement_sheet_name": "",
+          "sort_num": 6,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "GP",
+                "count": 70000,
+                "name": "GP",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "CLEAR_SKILLUP_SEVEN",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "600004_7",
+          "achivement_sheet_name": "",
+          "sort_num": 7,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "GET_COACH",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "600004_8",
+          "achivement_sheet_name": "",
+          "sort_num": 8,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "CHANGE_COACH",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "600004_9",
+          "achivement_sheet_name": "",
+          "sort_num": 9,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "GP",
+                "count": 70000,
+                "name": "GP",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "CHANGE_ICON",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "600004_10",
+          "achivement_sheet_name": "",
+          "sort_num": 10,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            },
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 2,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            },
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 3,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            },
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 5,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 4,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            },
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 5,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            },
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 6,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            },
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 7,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            },
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "ABILITY_TRAINING_RANDOM",
+                  "grade": 0,
+                  "effect": 0
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 8,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "GET_BINGO_LINE",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        }
+      ],
+      "achivement_sheet_name": "",
+      "achivement_sheet_details": "",
+      "banner_b_file_name": "",
+      "banner_c_file_name": "",
+      "text_color_a": {
+        "color_r": 255,
+        "color_g": 255,
+        "color_b": 255
+      },
+      "text_color_b": {
+        "color_r": 255,
+        "color_g": 255,
+        "color_b": 255
+      },
+      "is_completed": "NO",
+      "is_active": "NO",
+      "bingo_link_info": [],
+      "campaign_info": []
+    },
+    {
+      "sheet_id": 600005,
+      "sheet_kind": "BINGO_PERMANENT",
+      "start_time": 0,
+      "buy_end_time": 0,
+      "end_time": 0,
+      "not_received_num": 0,
+      "achievement_list": [
+        {
+          "achievement_id": "600005_1",
+          "achivement_sheet_name": "",
+          "sort_num": 1,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 5,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "PLAY_ANY_MATCH",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "600005_2",
+          "achivement_sheet_name": "",
+          "sort_num": 2,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "GP",
+                "count": 70000,
+                "name": "GP",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 1,
+              "achievement_need_num": 11,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "SET_PLAYER_OVER_STANDARD",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "600005_3",
+          "achivement_sheet_name": "",
+          "sort_num": 3,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "SETTING_MULTI_FORMATION",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "600005_4",
+          "achivement_sheet_name": "",
+          "sort_num": 4,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 100,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "ABILITY_TRAINING_SELECT",
+                  "grade": 0,
+                  "effect": 0
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "CUSTOM_STADIUM",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "600005_5",
+          "achivement_sheet_name": "",
+          "sort_num": 5,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 4,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "CLEAR_BINGO_PERMANENT",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "600005_6",
+          "achivement_sheet_name": "",
+          "sort_num": 6,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "GP",
+                "count": 70000,
+                "name": "GP",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "POSITION_EDIT_DEFENCE_FORMATION",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "600005_7",
+          "achivement_sheet_name": "",
+          "sort_num": 7,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "LINK_BY_KONAMI_ID",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "600005_8",
+          "achivement_sheet_name": "",
+          "sort_num": 8,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "GP",
+                "count": 70000,
+                "name": "GP",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "CLEAR_SKILLUP_NINE",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "600005_9",
+          "achivement_sheet_name": "",
+          "sort_num": 9,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "CLEAR_SKILLUP_TEN",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        },
+        {
+          "achievement_id": "600005_10",
+          "achivement_sheet_name": "",
+          "sort_num": 10,
+          "event_id": [],
+          "is_spotlight_reward": "NO",
+          "item": [
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 1,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            },
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 2,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            },
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 3,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            },
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 4,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            },
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 5,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            },
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 6,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            },
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 7,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            },
+            {
+              "reward": {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 5,
+                "name": "ITEM",
+                "title": "NotImplement",
+                "date": 0,
+                "recv_term": 0,
+                "reason": "BINGO",
+                "reason_num": 0,
+                "event_name": "",
+                "sound_type": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              },
+              "state": "NOT_ACHIEVED",
+              "achievement_num": 0,
+              "achievement_need_num": 8,
+              "recieve_date": 0,
+              "is_opened": "YES"
+            }
+          ],
+          "base_team_id": 0,
+          "label": "GET_BINGO_LINE",
+          "conditions_type_1": "NONE",
+          "conditions_type_2": "NONE",
+          "match_achievement_type": "NONE"
+        }
+      ],
+      "achivement_sheet_name": "",
+      "achivement_sheet_details": "",
+      "banner_b_file_name": "",
+      "banner_c_file_name": "",
+      "text_color_a": {
+        "color_r": 255,
+        "color_g": 255,
+        "color_b": 255
+      },
+      "text_color_b": {
+        "color_r": 255,
+        "color_g": 255,
+        "color_b": 255
+      },
+      "is_completed": "NO",
+      "is_active": "NO",
+      "bingo_link_info": [],
+      "campaign_info": []
+    }
+  ],
+  "empty_slot_info_list": [],
+  "season_root_info": {
+    "season_end_time": 1818035999,
+    "team_id": 0,
+    "league_team_id_list": [],
+    "league_compe_unit_id": 65535,
+    "is_timer_alert": "NO"
+  },
+  "result": "NOERR",
+  "rqid": 3353280638,
+  "msgid": "CMD_GET_MAINMENU_MATCH_CREATIVE_INFO"
+}

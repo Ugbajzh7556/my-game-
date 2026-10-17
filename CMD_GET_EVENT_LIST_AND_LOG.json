@@ -1,0 +1,1689 @@
+{
+  "event_log_list": [
+    {
+      "event_id": 10884,
+      "entry_status": "ENTRY",
+      "use_preset_team_id": 0,
+      "age_category": "FULL",
+      "is_ranking_fix": "NO",
+      "pt_event_point": 0,
+      "pt_cleared_point": 0,
+      "pt_selected_com_lv": "VERYEASY",
+      "pt_rest_point": 0,
+      "pt_next_reward": [],
+      "pt_is_next_reward_dialog": "NO",
+      "pt_main_rest_point": 0,
+      "pt_main_reward": [],
+      "pt_tour_bonus_select_nation_id": 0,
+      "ch_mission_log": [],
+      "coop_daily_point": 0,
+      "coop_daily_point_limit": 0,
+      "coop_vscom_win_point_normal": [],
+      "coop_vscom_win_point_bonus": [],
+      "coop_vscom_cpu_level_rate": [],
+      "squad_challenge_event_log": [],
+      "stinging_event_log": []
+    },
+    {
+      "event_id": 10851,
+      "entry_status": "ENTRY",
+      "use_preset_team_id": 0,
+      "age_category": "FULL",
+      "is_ranking_fix": "NO",
+      "pt_event_point": 0,
+      "pt_cleared_point": 0,
+      "pt_selected_com_lv": "VERYEASY",
+      "pt_rest_point": 0,
+      "pt_next_reward": [],
+      "pt_is_next_reward_dialog": "NO",
+      "pt_main_rest_point": 0,
+      "pt_main_reward": [],
+      "pt_tour_bonus_select_nation_id": 0,
+      "ch_mission_log": [],
+      "coop_daily_point": 0,
+      "coop_daily_point_limit": 0,
+      "coop_vscom_win_point_normal": [],
+      "coop_vscom_win_point_bonus": [],
+      "coop_vscom_cpu_level_rate": [],
+      "squad_challenge_event_log": [],
+      "stinging_event_log": []
+    },
+    {
+      "event_id": 10847,
+      "entry_status": "ENTRY",
+      "use_preset_team_id": 0,
+      "age_category": "FULL",
+      "is_ranking_fix": "NO",
+      "pt_event_point": 0,
+      "pt_cleared_point": 0,
+      "pt_selected_com_lv": "VERYEASY",
+      "pt_rest_point": 0,
+      "pt_next_reward": [],
+      "pt_is_next_reward_dialog": "NO",
+      "pt_main_rest_point": 0,
+      "pt_main_reward": [],
+      "pt_tour_bonus_select_nation_id": 0,
+      "ch_mission_log": [],
+      "coop_daily_point": 0,
+      "coop_daily_point_limit": 0,
+      "coop_vscom_win_point_normal": [],
+      "coop_vscom_win_point_bonus": [],
+      "coop_vscom_cpu_level_rate": [],
+      "squad_challenge_event_log": [],
+      "stinging_event_log": []
+    },
+    {
+      "event_id": 10848,
+      "entry_status": "ENTRY",
+      "use_preset_team_id": 0,
+      "age_category": "FULL",
+      "is_ranking_fix": "NO",
+      "pt_event_point": 0,
+      "pt_cleared_point": 0,
+      "pt_selected_com_lv": "VERYEASY",
+      "pt_rest_point": 0,
+      "pt_next_reward": [],
+      "pt_is_next_reward_dialog": "NO",
+      "pt_main_rest_point": 0,
+      "pt_main_reward": [],
+      "pt_tour_bonus_select_nation_id": 0,
+      "ch_mission_log": [],
+      "coop_daily_point": 0,
+      "coop_daily_point_limit": 0,
+      "coop_vscom_win_point_normal": [],
+      "coop_vscom_win_point_bonus": [],
+      "coop_vscom_cpu_level_rate": [],
+      "squad_challenge_event_log": [],
+      "stinging_event_log": []
+    }
+  ],
+  "event_list": [
+    {
+      "event_id": 10884,
+      "event_name": "Titani del calcio",
+      "event_list_disp_name": "Titani del calcio",
+      "major_category": "PT",
+      "is_vs_user": "NO",
+      "is_custom_team": "YES",
+      "event_start_time": 1600000000,
+      "event_end_time": 2147483647,
+      "event_panel_open_time": 1600000000,
+      "event_panel_close_time": 2147483647,
+      "match_entry": [],
+      "is_nonsupport": "NO",
+      "description_text": "Receive Rewards by collecting Event Points while playing against the AI.",
+      "rule_detail_text": "",
+      "is_championship_pro": "NO",
+      "is_official_competition": "NO",
+      "esports_mode_kind": "NONE",
+      "is_in_esports_menu": "NO",
+      "link_title_list": [],
+      "link_url_list": [],
+      "achievement_name_list": [
+        "New Playing Style"
+      ],
+      "is_local_gamerelay": "NO",
+      "has_ranking": "NO",
+      "fame_id_list": [],
+      "collabo_kind": "COLLABO_KIND_NONE",
+      "campaign_info": [
+        {
+          "campaign_id": 904,
+          "bg_file_name": "campaignBG_032"
+        }
+      ],
+      "main_reward_list": [
+        {
+          "reward_count": 1,
+          "event_reward_list": [
+            {
+              "present_id": 0,
+              "present_type": "COIN",
+              "count": 25,
+              "name": "NotImplement",
+              "title": "NotImplement",
+              "reason": "TOUR_EVENT",
+              "reason_num": 6000,
+              "random_reward_rate": 0
+            }
+          ],
+          "rank_from": 0,
+          "rank_to": 0,
+          "panel_mission_progress_info": []
+        },
+        {
+          "reward_count": 1,
+          "event_reward_list": [
+            {
+              "present_id": 0,
+              "present_type": "AGENT",
+              "count": 1,
+              "name": "NotImplement",
+              "title": "NotImplement",
+              "reason": "TOUR_EVENT",
+              "reason_num": 4000,
+              "random_reward_rate": 0,
+              "agent_info": {
+                "title": "Internazionale Milano",
+                "subcategory": "Highlight",
+                "kind_list": [
+                  "NONE"
+                ],
+                "agent_rarity_type": "AGENT_NORMAL"
+              }
+            }
+          ],
+          "rank_from": 0,
+          "rank_to": 0,
+          "panel_mission_progress_info": []
+        },
+        {
+          "reward_count": 1,
+          "event_reward_list": [
+            {
+              "present_id": 0,
+              "present_type": "COIN",
+              "count": 25,
+              "name": "NotImplement",
+              "title": "NotImplement",
+              "reason": "TOUR_EVENT",
+              "reason_num": 2000,
+              "random_reward_rate": 0
+            }
+          ],
+          "rank_from": 0,
+          "rank_to": 0,
+          "panel_mission_progress_info": []
+        }
+      ],
+      "is_billboard": "YES",
+      "has_eula": "NO",
+      "eula_url": "",
+      "eula_url_list": [],
+      "is_set_ball": "NO",
+      "match_env": {
+        "condition_home": "CONDITION_RANDOM",
+        "condition_away": "CONDITION_RANDOM",
+        "cpu_level": "HARD",
+        "match_time": 0,
+        "injury": "YES",
+        "ball_type": 0,
+        "exTime": "NO",
+        "pk": "NO",
+        "substitution_times": 3,
+        "substitution": 5,
+        "exSubstitution": "NO",
+        "limitTime": "NOSET",
+        "equalization": "NO",
+        "regulation": "NORMAL",
+        "can_use_mobile_controller": "YES"
+      },
+      "stadium_setting": {
+        "stadium_id": 0,
+        "timezone": "TIME_ZONE_TYPE_NIGHT",
+        "weather": "WEATHER_TYPE_FINE",
+        "season": "SEASON_TYPE_SUMMER",
+        "turf_length": "TURF_LENGTH_NORMAL",
+        "pitch_condition": "PITCH_CONDITION_NORMAL"
+      },
+      "compe_unit_id": 65535,
+      "is_limit_matching_area": "NO",
+      "is_limit_control_style": "NO",
+      "is_vsai_force_no_substitute": "NO",
+      "is_vsai_gameplan_disp": "NO",
+      "is_vsai_custom_team": "NO",
+      "vsai_team_id_for_emblem": 0,
+      "banner_file_name": "/banner/event/010884/bc0ceb421d1d51cbd703072235d4018155b3ab0cad661c4f394dad83bad11056",
+      "announce_banner_file_name": "/banner/event/010884/4af4291e87f0a30ac29ffb95a25c1e6c46dc25cb241eddf4e2af1c65a7dd1e2b",
+      "detail_banner_file_name": "",
+      "event_menu_banner_file_name": "/banner/event/010884/16dcbaccb16bb1350524f687ed84f079f33bd86617eb9d8977d8f2672be475cd",
+      "text_color_a": {
+        "color_r": 255,
+        "color_g": 255,
+        "color_b": 255
+      },
+      "text_color_b": {
+        "color_r": 164,
+        "color_g": 255,
+        "color_b": 255
+      },
+      "recommend_str": "",
+      "recommend_kind": "NONE",
+      "pt_ranking_start_point": 0,
+      "pt_setting_pattern": "PATTERN_SELECTABLE",
+      "pt_theme_bonus": "CLUB",
+      "pt_bonus_target_entity_id": [
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        186,
+        190,
+        234,
+        235,
+        237,
+        238,
+        240,
+        317,
+        320,
+        323,
+        327,
+        333,
+        336,
+        337,
+        1362,
+        1919,
+        2320,
+        2517,
+        4141,
+        4218,
+        4219,
+        4220,
+        4228,
+        4229,
+        4230,
+        4232,
+        4233,
+        4234,
+        4237,
+        4241,
+        4377,
+        4379,
+        4914
+      ],
+      "pt_reward_list": [
+        {
+          "point": 500,
+          "repeat_reward_point": 0,
+          "reward": {
+            "reward_count": 1,
+            "event_reward_list": [
+              {
+                "present_id": 0,
+                "present_type": "GP",
+                "count": 10000,
+                "name": "NotImplement",
+                "title": "NotImplement",
+                "reason": "TOUR_EVENT",
+                "reason_num": 500,
+                "random_reward_rate": 0
+              }
+            ],
+            "rank_from": 0,
+            "rank_to": 0,
+            "panel_mission_progress_info": []
+          },
+          "is_main": "NO"
+        },
+        {
+          "point": 1000,
+          "repeat_reward_point": 0,
+          "reward": {
+            "reward_count": 1,
+            "event_reward_list": [
+              {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "NotImplement",
+                "title": "NotImplement",
+                "reason": "TOUR_EVENT",
+                "reason_num": 1000,
+                "random_reward_rate": 0,
+                "item_info": {
+                  "item_type": "POSITION_TRAINING",
+                  "grade": 0,
+                  "effect": 0
+                }
+              }
+            ],
+            "rank_from": 0,
+            "rank_to": 0,
+            "panel_mission_progress_info": []
+          },
+          "is_main": "NO"
+        },
+        {
+          "point": 2000,
+          "repeat_reward_point": 0,
+          "reward": {
+            "reward_count": 1,
+            "event_reward_list": [
+              {
+                "present_id": 0,
+                "present_type": "COIN",
+                "count": 25,
+                "name": "NotImplement",
+                "title": "NotImplement",
+                "reason": "TOUR_EVENT",
+                "reason_num": 2000,
+                "random_reward_rate": 0
+              }
+            ],
+            "rank_from": 0,
+            "rank_to": 0,
+            "panel_mission_progress_info": []
+          },
+          "is_main": "YES"
+        },
+        {
+          "point": 3000,
+          "repeat_reward_point": 0,
+          "reward": {
+            "reward_count": 1,
+            "event_reward_list": [
+              {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "NotImplement",
+                "title": "NotImplement",
+                "reason": "TOUR_EVENT",
+                "reason_num": 3000,
+                "random_reward_rate": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              }
+            ],
+            "rank_from": 0,
+            "rank_to": 0,
+            "panel_mission_progress_info": []
+          },
+          "is_main": "NO"
+        },
+        {
+          "point": 4000,
+          "repeat_reward_point": 0,
+          "reward": {
+            "reward_count": 1,
+            "event_reward_list": [
+              {
+                "present_id": 0,
+                "present_type": "AGENT",
+                "count": 1,
+                "name": "NotImplement",
+                "title": "NotImplement",
+                "reason": "TOUR_EVENT",
+                "reason_num": 4000,
+                "random_reward_rate": 0,
+                "agent_info": {
+                  "title": "Internazionale Milano",
+                  "subcategory": "Highlight",
+                  "kind_list": [
+                    "NONE"
+                  ],
+                  "agent_rarity_type": "AGENT_NORMAL"
+                }
+              }
+            ],
+            "rank_from": 0,
+            "rank_to": 0,
+            "panel_mission_progress_info": []
+          },
+          "is_main": "YES"
+        },
+        {
+          "point": 5000,
+          "repeat_reward_point": 0,
+          "reward": {
+            "reward_count": 1,
+            "event_reward_list": [
+              {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "NotImplement",
+                "title": "NotImplement",
+                "reason": "TOUR_EVENT",
+                "reason_num": 5000,
+                "random_reward_rate": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              }
+            ],
+            "rank_from": 0,
+            "rank_to": 0,
+            "panel_mission_progress_info": []
+          },
+          "is_main": "NO"
+        },
+        {
+          "point": 6000,
+          "repeat_reward_point": 0,
+          "reward": {
+            "reward_count": 1,
+            "event_reward_list": [
+              {
+                "present_id": 0,
+                "present_type": "COIN",
+                "count": 25,
+                "name": "NotImplement",
+                "title": "NotImplement",
+                "reason": "TOUR_EVENT",
+                "reason_num": 6000,
+                "random_reward_rate": 0
+              }
+            ],
+            "rank_from": 0,
+            "rank_to": 0,
+            "panel_mission_progress_info": []
+          },
+          "is_main": "YES"
+        },
+        {
+          "point": 0,
+          "repeat_reward_point": 1000,
+          "reward": {
+            "reward_count": 1,
+            "event_reward_list": [
+              {
+                "present_id": 0,
+                "present_type": "GP",
+                "count": 100,
+                "name": "NotImplement",
+                "title": "NotImplement",
+                "reason": "TOUR_EVENT",
+                "reason_num": 1000,
+                "random_reward_rate": 0
+              }
+            ],
+            "rank_from": 0,
+            "rank_to": 0,
+            "panel_mission_progress_info": []
+          },
+          "is_main": "NO"
+        }
+      ],
+      "tour_pvp_sp_rate": 0,
+      "tour_pvp_bonus_list": [],
+      "ch_event_type": "NONE",
+      "ch_mission_info_list": [],
+      "ch_clear_count_limit": 0,
+      "ch_enable_change_cpu_level": "YES",
+      "ch_is_ftue": "NO",
+      "ch_is_challenge_unlocked": "NO",
+      "sp_regulation": [],
+      "smart_control": "ANY",
+      "is_must_cross_platform": "NO",
+      "ranking_event_info": [],
+      "coop_bonus_time_interval": 0,
+      "coop_daily_point_limit_all_list": [],
+      "record_event_info": [],
+      "strike_arena_info": [],
+      "ml_event_reward_info": [],
+      "useable_team_list": [],
+      "useable_compe_list": [],
+      "squad_challenge_event_info": [],
+      "collabo_event_info": [],
+      "stinging_event_info": []
+    },
+    {
+      "event_id": 10851,
+      "event_name": "Italian Clubs",
+      "event_list_disp_name": "Italian Clubs",
+      "major_category": "PT",
+      "is_vs_user": "NO",
+      "is_custom_team": "YES",
+      "event_start_time": 1600000000,
+      "event_end_time": 2147483647,
+      "event_panel_open_time": 1600000000,
+      "event_panel_close_time": 2147483647,
+      "match_entry": [],
+      "is_nonsupport": "NO",
+      "description_text": "",
+      "rule_detail_text": "",
+      "is_championship_pro": "NO",
+      "is_official_competition": "NO",
+      "esports_mode_kind": "NONE",
+      "is_in_esports_menu": "NO",
+      "link_title_list": [],
+      "link_url_list": [],
+      "achievement_name_list": [],
+      "is_local_gamerelay": "NO",
+      "has_ranking": "NO",
+      "fame_id_list": [],
+      "collabo_kind": "COLLABO_KIND_NONE",
+      "campaign_info": [],
+      "main_reward_list": [
+        {
+          "reward_count": 1,
+          "event_reward_list": [
+            {
+              "present_id": 0,
+              "present_type": "AGENT",
+              "count": 1,
+              "name": "NotImplement",
+              "title": "NotImplement",
+              "reason": "TOUR_EVENT",
+              "reason_num": 3000,
+              "random_reward_rate": 0,
+              "agent_info": {
+                "title": "National 8 Oct '26",
+                "subcategory": "POTW",
+                "kind_list": [
+                  "NONE"
+                ],
+                "agent_rarity_type": "AGENT_NORMAL"
+              }
+            }
+          ],
+          "rank_from": 0,
+          "rank_to": 0,
+          "panel_mission_progress_info": []
+        }
+      ],
+      "is_billboard": "YES",
+      "has_eula": "NO",
+      "eula_url": "",
+      "eula_url_list": [],
+      "is_set_ball": "NO",
+      "match_env": {
+        "condition_home": "CONDITION_RANDOM",
+        "condition_away": "CONDITION_RANDOM",
+        "cpu_level": "HARD",
+        "match_time": 0,
+        "injury": "YES",
+        "ball_type": 0,
+        "exTime": "NO",
+        "pk": "NO",
+        "substitution_times": 3,
+        "substitution": 5,
+        "exSubstitution": "NO",
+        "limitTime": "NOSET",
+        "equalization": "NO",
+        "regulation": "NORMAL",
+        "can_use_mobile_controller": "YES"
+      },
+      "stadium_setting": {
+        "stadium_id": 0,
+        "timezone": "TIME_ZONE_TYPE_DAY",
+        "weather": "WEATHER_TYPE_FINE",
+        "season": "SEASON_TYPE_SUMMER",
+        "turf_length": "TURF_LENGTH_NORMAL",
+        "pitch_condition": "PITCH_CONDITION_NORMAL"
+      },
+      "compe_unit_id": 65535,
+      "is_limit_matching_area": "NO",
+      "is_limit_control_style": "NO",
+      "is_vsai_force_no_substitute": "NO",
+      "is_vsai_gameplan_disp": "NO",
+      "is_vsai_custom_team": "NO",
+      "vsai_team_id_for_emblem": 0,
+      "banner_file_name": "/banner/event/010851/04a22e62a970cb9c3f843ef584f266a3dc1a5dc94047510d92c2bb045e30f435",
+      "announce_banner_file_name": "/banner/event/010851/34a9dc0a3903cedb61ff44af54f42f1a2eab99e18b537ef43c4936f90c3582db",
+      "detail_banner_file_name": "",
+      "event_menu_banner_file_name": "/banner/event/010851/d4f6323447b00a400c917f494295f9201b5860267f602a55cfa3b0ddff06f792",
+      "text_color_a": {
+        "color_r": 0,
+        "color_g": 0,
+        "color_b": 0
+      },
+      "text_color_b": {
+        "color_r": 255,
+        "color_g": 0,
+        "color_b": 0
+      },
+      "recommend_str": "",
+      "recommend_kind": "NONE",
+      "pt_ranking_start_point": 0,
+      "pt_setting_pattern": "PATTERN_SELECTABLE",
+      "pt_theme_bonus": "CLUB",
+      "pt_bonus_target_entity_id": [
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        186,
+        190,
+        234,
+        235,
+        237,
+        238,
+        240,
+        317,
+        320,
+        323,
+        327,
+        333,
+        336,
+        337,
+        1362,
+        1919,
+        2320,
+        2517,
+        4141,
+        4218,
+        4219,
+        4220,
+        4228,
+        4229,
+        4230,
+        4232,
+        4233,
+        4234,
+        4237,
+        4241,
+        4377,
+        4379,
+        4914
+      ],
+      "pt_reward_list": [
+        {
+          "point": 1000,
+          "repeat_reward_point": 0,
+          "reward": {
+            "reward_count": 1,
+            "event_reward_list": [
+              {
+                "present_id": 0,
+                "present_type": "GP",
+                "count": 30000,
+                "name": "NotImplement",
+                "title": "NotImplement",
+                "reason": "TOUR_EVENT",
+                "reason_num": 1000,
+                "random_reward_rate": 0
+              }
+            ],
+            "rank_from": 0,
+            "rank_to": 0,
+            "panel_mission_progress_info": []
+          },
+          "is_main": "NO"
+        },
+        {
+          "point": 2000,
+          "repeat_reward_point": 0,
+          "reward": {
+            "reward_count": 1,
+            "event_reward_list": [
+              {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "NotImplement",
+                "title": "NotImplement",
+                "reason": "TOUR_EVENT",
+                "reason_num": 2000,
+                "random_reward_rate": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              }
+            ],
+            "rank_from": 0,
+            "rank_to": 0,
+            "panel_mission_progress_info": []
+          },
+          "is_main": "NO"
+        },
+        {
+          "point": 3000,
+          "repeat_reward_point": 0,
+          "reward": {
+            "reward_count": 1,
+            "event_reward_list": [
+              {
+                "present_id": 0,
+                "present_type": "AGENT",
+                "count": 1,
+                "name": "NotImplement",
+                "title": "NotImplement",
+                "reason": "TOUR_EVENT",
+                "reason_num": 3000,
+                "random_reward_rate": 0,
+                "agent_info": {
+                  "title": "National 8 Oct '26",
+                  "subcategory": "POTW",
+                  "kind_list": [
+                    "NONE"
+                  ],
+                  "agent_rarity_type": "AGENT_NORMAL"
+                }
+              }
+            ],
+            "rank_from": 0,
+            "rank_to": 0,
+            "panel_mission_progress_info": []
+          },
+          "is_main": "YES"
+        },
+        {
+          "point": 0,
+          "repeat_reward_point": 1000,
+          "reward": {
+            "reward_count": 1,
+            "event_reward_list": [
+              {
+                "present_id": 0,
+                "present_type": "GP",
+                "count": 100,
+                "name": "NotImplement",
+                "title": "NotImplement",
+                "reason": "TOUR_EVENT",
+                "reason_num": 1000,
+                "random_reward_rate": 0
+              }
+            ],
+            "rank_from": 0,
+            "rank_to": 0,
+            "panel_mission_progress_info": []
+          },
+          "is_main": "NO"
+        }
+      ],
+      "tour_pvp_sp_rate": 0,
+      "tour_pvp_bonus_list": [],
+      "ch_event_type": "NONE",
+      "ch_mission_info_list": [],
+      "ch_clear_count_limit": 0,
+      "ch_enable_change_cpu_level": "YES",
+      "ch_is_ftue": "NO",
+      "ch_is_challenge_unlocked": "NO",
+      "sp_regulation": [],
+      "smart_control": "ANY",
+      "is_must_cross_platform": "NO",
+      "ranking_event_info": [],
+      "coop_bonus_time_interval": 0,
+      "coop_daily_point_limit_all_list": [],
+      "record_event_info": [],
+      "strike_arena_info": [],
+      "ml_event_reward_info": [],
+      "useable_team_list": [],
+      "useable_compe_list": [],
+      "squad_challenge_event_info": [],
+      "collabo_event_info": [],
+      "stinging_event_info": []
+    },
+    {
+      "event_id": 10847,
+      "event_name": "Spanish Clubs",
+      "event_list_disp_name": "Spanish Clubs",
+      "major_category": "PT",
+      "is_vs_user": "NO",
+      "is_custom_team": "YES",
+      "event_start_time": 1600000000,
+      "event_end_time": 2147483647,
+      "event_panel_open_time": 1600000000,
+      "event_panel_close_time": 2147483647,
+      "match_entry": [],
+      "is_nonsupport": "NO",
+      "description_text": "",
+      "rule_detail_text": "",
+      "is_championship_pro": "NO",
+      "is_official_competition": "NO",
+      "esports_mode_kind": "NONE",
+      "is_in_esports_menu": "NO",
+      "link_title_list": [],
+      "link_url_list": [],
+      "achievement_name_list": [],
+      "is_local_gamerelay": "NO",
+      "has_ranking": "NO",
+      "fame_id_list": [],
+      "collabo_kind": "COLLABO_KIND_NONE",
+      "campaign_info": [],
+      "main_reward_list": [
+        {
+          "reward_count": 1,
+          "event_reward_list": [
+            {
+              "present_id": 0,
+              "present_type": "DRAFT",
+              "count": 1,
+              "name": "NotImplement",
+              "title": "NotImplement",
+              "reason": "TOUR_EVENT",
+              "reason_num": 3000,
+              "random_reward_rate": 0,
+              "draft_info": {
+                "draft_id": 0,
+                "rarity": 4,
+                "expiration_date": 0,
+                "count": 1
+              }
+            }
+          ],
+          "rank_from": 0,
+          "rank_to": 0,
+          "panel_mission_progress_info": []
+        },
+        {
+          "reward_count": 1,
+          "event_reward_list": [
+            {
+              "present_id": 0,
+              "present_type": "ITEM",
+              "count": 1,
+              "name": "NotImplement",
+              "title": "NotImplement",
+              "reason": "TOUR_EVENT",
+              "reason_num": 2000,
+              "random_reward_rate": 0,
+              "item_info": {
+                "item_type": "POSITION_TRAINING",
+                "grade": 0,
+                "effect": 0
+              }
+            }
+          ],
+          "rank_from": 0,
+          "rank_to": 0,
+          "panel_mission_progress_info": []
+        },
+        {
+          "reward_count": 1,
+          "event_reward_list": [
+            {
+              "present_id": 0,
+              "present_type": "GP",
+              "count": 20000,
+              "name": "NotImplement",
+              "title": "NotImplement",
+              "reason": "TOUR_EVENT",
+              "reason_num": 1000,
+              "random_reward_rate": 0
+            }
+          ],
+          "rank_from": 0,
+          "rank_to": 0,
+          "panel_mission_progress_info": []
+        }
+      ],
+      "is_billboard": "YES",
+      "has_eula": "NO",
+      "eula_url": "",
+      "eula_url_list": [],
+      "is_set_ball": "NO",
+      "match_env": {
+        "condition_home": "CONDITION_RANDOM",
+        "condition_away": "CONDITION_RANDOM",
+        "cpu_level": "HARD",
+        "match_time": 0,
+        "injury": "YES",
+        "ball_type": 0,
+        "exTime": "NO",
+        "pk": "NO",
+        "substitution_times": 3,
+        "substitution": 5,
+        "exSubstitution": "NO",
+        "limitTime": "NOSET",
+        "equalization": "NO",
+        "regulation": "NORMAL",
+        "can_use_mobile_controller": "YES"
+      },
+      "stadium_setting": {
+        "stadium_id": 0,
+        "timezone": "TIME_ZONE_TYPE_DAY",
+        "weather": "WEATHER_TYPE_FINE",
+        "season": "SEASON_TYPE_SUMMER",
+        "turf_length": "TURF_LENGTH_NORMAL",
+        "pitch_condition": "PITCH_CONDITION_NORMAL"
+      },
+      "compe_unit_id": 65535,
+      "is_limit_matching_area": "NO",
+      "is_limit_control_style": "NO",
+      "is_vsai_force_no_substitute": "NO",
+      "is_vsai_gameplan_disp": "NO",
+      "is_vsai_custom_team": "NO",
+      "vsai_team_id_for_emblem": 0,
+      "banner_file_name": "/banner/event/010847/8f52e6879f5726a532ea19c7ba685c0bd758f0160c5ab389a10fba875fefcf24",
+      "announce_banner_file_name": "/banner/event/010847/96af12c9dfe8fbe22d91526bbcee742283a8bf98ea2942cbca7cec4d1ed64432",
+      "detail_banner_file_name": "",
+      "event_menu_banner_file_name": "/banner/event/010847/f7bc4133c42089caaff4b5f5f8997d6eb0085dd77a4aabd0fb616954c3141b65",
+      "text_color_a": {
+        "color_r": 255,
+        "color_g": 255,
+        "color_b": 0
+      },
+      "text_color_b": {
+        "color_r": 255,
+        "color_g": 255,
+        "color_b": 255
+      },
+      "recommend_str": "",
+      "recommend_kind": "NONE",
+      "pt_ranking_start_point": 0,
+      "pt_setting_pattern": "PATTERN_SELECTABLE",
+      "pt_theme_bonus": "CLUB",
+      "pt_bonus_target_entity_id": [
+        108,
+        109,
+        110,
+        111,
+        172,
+        194,
+        195,
+        196,
+        258,
+        259,
+        260,
+        261,
+        263,
+        264,
+        265,
+        266,
+        267,
+        357,
+        359,
+        361,
+        362,
+        363,
+        364,
+        366,
+        370,
+        1765,
+        2187,
+        2523,
+        4145,
+        4146,
+        4147,
+        4247,
+        4249,
+        4260,
+        4272,
+        4276,
+        4302,
+        4308,
+        4395,
+        4988,
+        5644,
+        5895
+      ],
+      "pt_reward_list": [
+        {
+          "point": 1000,
+          "repeat_reward_point": 0,
+          "reward": {
+            "reward_count": 1,
+            "event_reward_list": [
+              {
+                "present_id": 0,
+                "present_type": "GP",
+                "count": 20000,
+                "name": "NotImplement",
+                "title": "NotImplement",
+                "reason": "TOUR_EVENT",
+                "reason_num": 1000,
+                "random_reward_rate": 0
+              }
+            ],
+            "rank_from": 0,
+            "rank_to": 0,
+            "panel_mission_progress_info": []
+          },
+          "is_main": "YES"
+        },
+        {
+          "point": 2000,
+          "repeat_reward_point": 0,
+          "reward": {
+            "reward_count": 1,
+            "event_reward_list": [
+              {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "NotImplement",
+                "title": "NotImplement",
+                "reason": "TOUR_EVENT",
+                "reason_num": 2000,
+                "random_reward_rate": 0,
+                "item_info": {
+                  "item_type": "POSITION_TRAINING",
+                  "grade": 0,
+                  "effect": 0
+                }
+              }
+            ],
+            "rank_from": 0,
+            "rank_to": 0,
+            "panel_mission_progress_info": []
+          },
+          "is_main": "YES"
+        },
+        {
+          "point": 3000,
+          "repeat_reward_point": 0,
+          "reward": {
+            "reward_count": 1,
+            "event_reward_list": [
+              {
+                "present_id": 0,
+                "present_type": "DRAFT",
+                "count": 1,
+                "name": "NotImplement",
+                "title": "NotImplement",
+                "reason": "TOUR_EVENT",
+                "reason_num": 3000,
+                "random_reward_rate": 0,
+                "draft_info": {
+                  "draft_id": 0,
+                  "rarity": 4,
+                  "expiration_date": 0,
+                  "count": 1
+                }
+              }
+            ],
+            "rank_from": 0,
+            "rank_to": 0,
+            "panel_mission_progress_info": []
+          },
+          "is_main": "YES"
+        },
+        {
+          "point": 0,
+          "repeat_reward_point": 1000,
+          "reward": {
+            "reward_count": 1,
+            "event_reward_list": [
+              {
+                "present_id": 0,
+                "present_type": "GP",
+                "count": 100,
+                "name": "NotImplement",
+                "title": "NotImplement",
+                "reason": "TOUR_EVENT",
+                "reason_num": 1000,
+                "random_reward_rate": 0
+              }
+            ],
+            "rank_from": 0,
+            "rank_to": 0,
+            "panel_mission_progress_info": []
+          },
+          "is_main": "NO"
+        }
+      ],
+      "tour_pvp_sp_rate": 0,
+      "tour_pvp_bonus_list": [],
+      "ch_event_type": "NONE",
+      "ch_mission_info_list": [],
+      "ch_clear_count_limit": 0,
+      "ch_enable_change_cpu_level": "YES",
+      "ch_is_ftue": "NO",
+      "ch_is_challenge_unlocked": "NO",
+      "sp_regulation": [],
+      "smart_control": "ANY",
+      "is_must_cross_platform": "NO",
+      "ranking_event_info": [],
+      "coop_bonus_time_interval": 0,
+      "coop_daily_point_limit_all_list": [],
+      "record_event_info": [],
+      "strike_arena_info": [],
+      "ml_event_reward_info": [],
+      "useable_team_list": [],
+      "useable_compe_list": [],
+      "squad_challenge_event_info": [],
+      "collabo_event_info": [],
+      "stinging_event_info": []
+    },
+    {
+      "event_id": 10848,
+      "event_name": "Road to CAF AFCON 2027",
+      "event_list_disp_name": "Road to CAF AFCON 2027",
+      "major_category": "PT",
+      "is_vs_user": "NO",
+      "is_custom_team": "YES",
+      "event_start_time": 1600000000,
+      "event_end_time": 2147483647,
+      "event_panel_open_time": 1600000000,
+      "event_panel_close_time": 2147483647,
+      "match_entry": [],
+      "is_nonsupport": "NO",
+      "description_text": "The first part of this campaign is now underway, alongside the launch of the qualifying stage for Africa's greatest soccer festival, TotalEnergies CAF Africa Cup of Nations PAMOJA 2027. As African powers face off in fiery matches, experience the excitement in eFootball™ too!",
+      "rule_detail_text": "",
+      "is_championship_pro": "NO",
+      "is_official_competition": "NO",
+      "esports_mode_kind": "NONE",
+      "is_in_esports_menu": "NO",
+      "link_title_list": [],
+      "link_url_list": [],
+      "achievement_name_list": [],
+      "is_local_gamerelay": "NO",
+      "has_ranking": "NO",
+      "fame_id_list": [],
+      "collabo_kind": "COLLABO_KIND_NONE",
+      "campaign_info": [],
+      "main_reward_list": [
+        {
+          "reward_count": 1,
+          "event_reward_list": [
+            {
+              "present_id": 0,
+              "present_type": "ITEM",
+              "count": 1,
+              "name": "NotImplement",
+              "title": "NotImplement",
+              "reason": "TOUR_EVENT",
+              "reason_num": 6000,
+              "random_reward_rate": 0,
+              "item_info": {
+                "item_type": "POSITION_TRAINING",
+                "grade": 0,
+                "effect": 0
+              }
+            }
+          ],
+          "rank_from": 0,
+          "rank_to": 0,
+          "panel_mission_progress_info": []
+        },
+        {
+          "reward_count": 1,
+          "event_reward_list": [
+            {
+              "present_id": 0,
+              "present_type": "ITEM",
+              "count": 1,
+              "name": "NotImplement",
+              "title": "NotImplement",
+              "reason": "TOUR_EVENT",
+              "reason_num": 3000,
+              "random_reward_rate": 0,
+              "item_info": {
+                "item_type": "SKILL_TRAINING",
+                "grade": 0,
+                "effect": 0
+              }
+            }
+          ],
+          "rank_from": 0,
+          "rank_to": 0,
+          "panel_mission_progress_info": []
+        }
+      ],
+      "is_billboard": "YES",
+      "has_eula": "NO",
+      "eula_url": "",
+      "eula_url_list": [],
+      "is_set_ball": "NO",
+      "match_env": {
+        "condition_home": "CONDITION_RANDOM",
+        "condition_away": "CONDITION_RANDOM",
+        "cpu_level": "HARD",
+        "match_time": 0,
+        "injury": "YES",
+        "ball_type": 0,
+        "exTime": "NO",
+        "pk": "NO",
+        "substitution_times": 3,
+        "substitution": 5,
+        "exSubstitution": "NO",
+        "limitTime": "NOSET",
+        "equalization": "NO",
+        "regulation": "NORMAL",
+        "can_use_mobile_controller": "YES"
+      },
+      "stadium_setting": {
+        "stadium_id": 0,
+        "timezone": "TIME_ZONE_TYPE_DAY",
+        "weather": "WEATHER_TYPE_FINE",
+        "season": "SEASON_TYPE_SUMMER",
+        "turf_length": "TURF_LENGTH_NORMAL",
+        "pitch_condition": "PITCH_CONDITION_NORMAL"
+      },
+      "compe_unit_id": 65535,
+      "is_limit_matching_area": "NO",
+      "is_limit_control_style": "NO",
+      "is_vsai_force_no_substitute": "NO",
+      "is_vsai_gameplan_disp": "NO",
+      "is_vsai_custom_team": "NO",
+      "vsai_team_id_for_emblem": 0,
+      "banner_file_name": "/banner/event/010848/77eb52a20bd1d0d0f9b6c7f35ff0fc900020e4fdd6cb6626567210f0dd515fab",
+      "announce_banner_file_name": "/banner/event/010848/fbc53b48594fb0aaa7c18de683eeb1ed6ba87c65ed6331840d601dca7e8f6183",
+      "detail_banner_file_name": "",
+      "event_menu_banner_file_name": "/banner/event/010848/9cd4f1698af870137866d95c5ae66133c1b6f64f3d6033767c088920e2e4033a",
+      "text_color_a": {
+        "color_r": 255,
+        "color_g": 255,
+        "color_b": 255
+      },
+      "text_color_b": {
+        "color_r": 15,
+        "color_g": 200,
+        "color_b": 100
+      },
+      "recommend_str": "",
+      "recommend_kind": "NONE",
+      "pt_ranking_start_point": 0,
+      "pt_setting_pattern": "PATTERN_SELECTABLE",
+      "pt_theme_bonus": "NATIONALITY",
+      "pt_bonus_target_entity_id": [
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        51,
+        50,
+        52,
+        54,
+        98,
+        55,
+        56,
+        58,
+        59,
+        60,
+        61,
+        62,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        83,
+        85,
+        86,
+        87,
+        312,
+        88,
+        90,
+        63,
+        91,
+        92,
+        93,
+        94,
+        95
+      ],
+      "pt_reward_list": [
+        {
+          "point": 500,
+          "repeat_reward_point": 0,
+          "reward": {
+            "reward_count": 1,
+            "event_reward_list": [
+              {
+                "present_id": 0,
+                "present_type": "GP",
+                "count": 10000,
+                "name": "NotImplement",
+                "title": "NotImplement",
+                "reason": "TOUR_EVENT",
+                "reason_num": 500,
+                "random_reward_rate": 0
+              }
+            ],
+            "rank_from": 0,
+            "rank_to": 0,
+            "panel_mission_progress_info": []
+          },
+          "is_main": "NO"
+        },
+        {
+          "point": 1000,
+          "repeat_reward_point": 0,
+          "reward": {
+            "reward_count": 1,
+            "event_reward_list": [
+              {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "NotImplement",
+                "title": "NotImplement",
+                "reason": "TOUR_EVENT",
+                "reason_num": 1000,
+                "random_reward_rate": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              }
+            ],
+            "rank_from": 0,
+            "rank_to": 0,
+            "panel_mission_progress_info": []
+          },
+          "is_main": "NO"
+        },
+        {
+          "point": 2000,
+          "repeat_reward_point": 0,
+          "reward": {
+            "reward_count": 1,
+            "event_reward_list": [
+              {
+                "present_id": 0,
+                "present_type": "GP",
+                "count": 10000,
+                "name": "NotImplement",
+                "title": "NotImplement",
+                "reason": "TOUR_EVENT",
+                "reason_num": 2000,
+                "random_reward_rate": 0
+              }
+            ],
+            "rank_from": 0,
+            "rank_to": 0,
+            "panel_mission_progress_info": []
+          },
+          "is_main": "NO"
+        },
+        {
+          "point": 3000,
+          "repeat_reward_point": 0,
+          "reward": {
+            "reward_count": 1,
+            "event_reward_list": [
+              {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "NotImplement",
+                "title": "NotImplement",
+                "reason": "TOUR_EVENT",
+                "reason_num": 3000,
+                "random_reward_rate": 0,
+                "item_info": {
+                  "item_type": "SKILL_TRAINING",
+                  "grade": 0,
+                  "effect": 0
+                }
+              }
+            ],
+            "rank_from": 0,
+            "rank_to": 0,
+            "panel_mission_progress_info": []
+          },
+          "is_main": "YES"
+        },
+        {
+          "point": 4000,
+          "repeat_reward_point": 0,
+          "reward": {
+            "reward_count": 1,
+            "event_reward_list": [
+              {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "NotImplement",
+                "title": "NotImplement",
+                "reason": "TOUR_EVENT",
+                "reason_num": 4000,
+                "random_reward_rate": 0,
+                "item_info": {
+                  "item_type": "LEVEL_TRAINING",
+                  "grade": 4,
+                  "effect": 10000
+                }
+              }
+            ],
+            "rank_from": 0,
+            "rank_to": 0,
+            "panel_mission_progress_info": []
+          },
+          "is_main": "NO"
+        },
+        {
+          "point": 5000,
+          "repeat_reward_point": 0,
+          "reward": {
+            "reward_count": 1,
+            "event_reward_list": [
+              {
+                "present_id": 0,
+                "present_type": "GP",
+                "count": 10000,
+                "name": "NotImplement",
+                "title": "NotImplement",
+                "reason": "TOUR_EVENT",
+                "reason_num": 5000,
+                "random_reward_rate": 0
+              }
+            ],
+            "rank_from": 0,
+            "rank_to": 0,
+            "panel_mission_progress_info": []
+          },
+          "is_main": "NO"
+        },
+        {
+          "point": 6000,
+          "repeat_reward_point": 0,
+          "reward": {
+            "reward_count": 1,
+            "event_reward_list": [
+              {
+                "present_id": 0,
+                "present_type": "ITEM",
+                "count": 1,
+                "name": "NotImplement",
+                "title": "NotImplement",
+                "reason": "TOUR_EVENT",
+                "reason_num": 6000,
+                "random_reward_rate": 0,
+                "item_info": {
+                  "item_type": "POSITION_TRAINING",
+                  "grade": 0,
+                  "effect": 0
+                }
+              }
+            ],
+            "rank_from": 0,
+            "rank_to": 0,
+            "panel_mission_progress_info": []
+          },
+          "is_main": "YES"
+        },
+        {
+          "point": 0,
+          "repeat_reward_point": 1000,
+          "reward": {
+            "reward_count": 1,
+            "event_reward_list": [
+              {
+                "present_id": 0,
+                "present_type": "GP",
+                "count": 100,
+                "name": "NotImplement",
+                "title": "NotImplement",
+                "reason": "TOUR_EVENT",
+                "reason_num": 1000,
+                "random_reward_rate": 0
+              }
+            ],
+            "rank_from": 0,
+            "rank_to": 0,
+            "panel_mission_progress_info": []
+          },
+          "is_main": "NO"
+        }
+      ],
+      "tour_pvp_sp_rate": 0,
+      "tour_pvp_bonus_list": [],
+      "ch_event_type": "NONE",
+      "ch_mission_info_list": [],
+      "ch_clear_count_limit": 0,
+      "ch_enable_change_cpu_level": "YES",
+      "ch_is_ftue": "NO",
+      "ch_is_challenge_unlocked": "NO",
+      "sp_regulation": [],
+      "smart_control": "ANY",
+      "is_must_cross_platform": "NO",
+      "ranking_event_info": [],
+      "coop_bonus_time_interval": 0,
+      "coop_daily_point_limit_all_list": [],
+      "record_event_info": [],
+      "strike_arena_info": [],
+      "ml_event_reward_info": [],
+      "useable_team_list": [],
+      "useable_compe_list": [],
+      "squad_challenge_event_info": [],
+      "collabo_event_info": [],
+      "stinging_event_info": []
+    }
+  ],
+  "event_num": 4,
+  "sp_rate_list": [
+    {
+      "player_num": 0,
+      "rate": 100000
+    },
+    {
+      "player_num": 1,
+      "rate": 110000
+    },
+    {
+      "player_num": 2,
+      "rate": 120000
+    },
+    {
+      "player_num": 3,
+      "rate": 130000
+    },
+    {
+      "player_num": 4,
+      "rate": 140000
+    },
+    {
+      "player_num": 5,
+      "rate": 150000
+    },
+    {
+      "player_num": 6,
+      "rate": 160000
+    },
+    {
+      "player_num": 7,
+      "rate": 170000
+    },
+    {
+      "player_num": 8,
+      "rate": 180000
+    },
+    {
+      "player_num": 9,
+      "rate": 190000
+    },
+    {
+      "player_num": 10,
+      "rate": 200000
+    },
+    {
+      "player_num": 11,
+      "rate": 210000
+    },
+    {
+      "player_num": 12,
+      "rate": 220000
+    },
+    {
+      "player_num": 13,
+      "rate": 230000
+    },
+    {
+      "player_num": 14,
+      "rate": 240000
+    },
+    {
+      "player_num": 15,
+      "rate": 250000
+    },
+    {
+      "player_num": 16,
+      "rate": 260000
+    },
+    {
+      "player_num": 17,
+      "rate": 270000
+    },
+    {
+      "player_num": 18,
+      "rate": 280000
+    },
+    {
+      "player_num": 19,
+      "rate": 290000
+    },
+    {
+      "player_num": 20,
+      "rate": 300000
+    },
+    {
+      "player_num": 21,
+      "rate": 310000
+    },
+    {
+      "player_num": 22,
+      "rate": 320000
+    },
+    {
+      "player_num": 23,
+      "rate": 330000
+    }
+  ],
+  "cpu_level_rate_list": [
+    100000,
+    110000,
+    120000,
+    135000,
+    155000,
+    180000,
+    205000
+  ],
+  "result_rate_list": [
+    120,
+    180,
+    300
+  ],
+  "default_member": [
+    8440914,
+    8440955,
+    8440987,
+    8441052,
+    8442089,
+    8442092,
+    8442096,
+    8442097,
+    8442103,
+    8442123,
+    8443209,
+    8446097,
+    8446150,
+    8446166,
+    8446214,
+    8446311,
+    8446364,
+    8446372,
+    8446409,
+    8446483,
+    8446495,
+    8446665,
+    8446885
+  ],
+  "event_recommend_kind": "NONE",
+  "event_recommend_str": "",
+  "event_recommend_info_type": "BOTH",
+  "result": "NOERR",
+  "rqid": 3353280645,
+  "msgid": "CMD_GET_EVENT_LIST_AND_LOG"
+}
