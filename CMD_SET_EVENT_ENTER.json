@@ -1,0 +1,80 @@
+{
+    "event_log": {
+        "event_id": 10884,
+        "entry_status": "ENTRY",
+        "use_preset_team_id": 119,
+        "age_category": "FULL",
+        "is_ranking_fix": "NO",
+        "pt_event_point": 0,
+        "pt_cleared_point": 0,
+        "pt_selected_com_lv": "VERYEASY",
+        "pt_rest_point": 500,
+        "pt_next_reward": {
+            "reward_count": 1,
+            "event_reward_list": [
+                {
+                    "present_id": 0,
+                    "present_type": "GP",
+                    "count": 10000,
+                    "name": "NotImplement",
+                    "title": "NotImplement",
+                    "reason": "TOUR_EVENT",
+                    "reason_num": 500,
+                    "random_reward_rate": 0
+                }
+            ],
+            "rank_from": 0,
+            "rank_to": 0,
+            "panel_mission_progress_info": []
+        },
+        "pt_is_next_reward_dialog": "YES",
+        "pt_main_rest_point": 6000,
+        "pt_main_reward": {
+            "reward_count": 1,
+            "event_reward_list": [
+                {
+                    "present_id": 0,
+                    "present_type": "COIN",
+                    "count": 25,
+                    "name": "NotImplement",
+                    "title": "NotImplement",
+                    "reason": "TOUR_EVENT",
+                    "reason_num": 6000,
+                    "random_reward_rate": 0
+                }
+            ],
+            "rank_from": 0,
+            "rank_to": 0,
+            "panel_mission_progress_info": []
+        },
+        "pt_tour_bonus_select_nation_id": 0,
+        "ch_mission_log": [],
+        "coop_daily_point": 0,
+        "coop_daily_point_limit": 0,
+        "coop_vscom_win_point_normal": [],
+        "coop_vscom_win_point_bonus": [],
+        "coop_vscom_cpu_level_rate": [],
+        "squad_challenge_event_log": [],
+        "stinging_event_log": []
+    },
+    "is_invalid": "NO",
+    "difference_squad_data": [],
+    "special_dream_squad_data": {
+        "squad_data": [],
+        "rental_team_id": 119,
+        "rental_gameplayer_list": [],
+        "liveupdate_version": 0,
+        "initial_settings": "NO"
+    },
+    "event_account_type": "GAME_PLAYER",
+    "build_gamerelay_num": 0,
+    "player_id_whitelist": [],
+    "is_enable_whitelist": "NO",
+    "coach_id_whitelist": [],
+    "is_enable_coach_whitelist": "NO",
+    "is_restrict_powerup_items": "NO",
+    "esports_player_num": 0,
+    "result": "NOERR",
+    "rqid": 3353280653,
+    "msgid": "CMD_SET_EVENT_ENTER"
+}
