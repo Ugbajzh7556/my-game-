@@ -1,0 +1,22 @@
+{
+  "msgid": "CMD_GET_MYCLUB_NEWSLIST",
+  "rqid": 0,
+  "errcode": "0",
+  "result": "NOERR",
+  "news_list": [
+    {
+      "newsId": 101,
+      "title": "BEDO GAMING 2027 OFFLINE",
+      "date": 1792000000,
+      "body": "مرحباً بكم في نسخة بيدو جيمنج eFootball 2027 الرسمية!\n\nقناة التيليجرام الرسمية:\nhttps://t.me/BedoGaming233\n\nقناة اليوتيوب:\nBedo Gaming\n\nتم فتح 120 فريم والجرافيك العالي وجميع البكدجات والحزم مجاناً بالكامل!",
+      "readFlag": "0",
+      "news_type": 1,
+      "priority": 1,
+      "frequency_type": "EVERY",
+      "news_category": 1,
+      "banner_name": "welcome_banner.png",
+      "banner_text": "t.me/BedoGaming233"
+    }
+  ],
+  "news_list_num": 1
+}
